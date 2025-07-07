@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hello_World
 
-<!--
-**GeorgeWBash/GeorgeWBash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 About Me
+Hi! I'm Giorgio Nicastro, a passionate individual with a strong background in applied sciences, computer science, and electronics, trying to revolutionize myself and the World
 
-Here are some ideas to get you started:
+I am always eager to learn new things and adapt to new environments and thrive both independently and as part of a team.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 🏫 Expirience
+Scientific High school
+Cybersecurity Specialist (Challenge Network)
+
+# 🎯 Goals
+Being part of a Team Red 
+Apllied Social Engineering
+
+# 🛠 Skills
+⚙️Coding in C, C++, Pyton, Bash
+📐Experience with AutoCAD
+🖥️OS used: Linux(Ubuntu, Kali) & Windows
+🧰Tools: Nmap, Burp Suite, Metasploit, Armitage, Wireshark
+🗡️Simulation attack/defence
+
+# 🌐 Languages
+Italian 
+English
+
+# 📌 Additional Information
+
+Interests: Computer science, electronics, reading, gamer
+
